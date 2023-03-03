@@ -1,0 +1,7 @@
+import random
+
+# Generate a random number between 1 and 100 
+random_num = random.randint(1, 100)
+
+# Print the generated number
+print("Random number: ", random_num)
